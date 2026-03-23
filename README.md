@@ -12,7 +12,6 @@ Interested in **performance optimization, functional programming and large-scale
 Primary languages used for backend development and database programming.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)
 ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 
 ### Frameworks & Libraries
