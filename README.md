@@ -210,4 +210,4 @@ Some books that have influenced my learning:
 
 ## 📫 Contact
 
-Email: [herreragre@tuta.io](mailto:herreragre@tuta.io)
+Email: [herreragre@tuta.io](mailto:herreragre@proton.me)
