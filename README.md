@@ -10,7 +10,6 @@ Focused on building **scalable, event-driven systems** with strong domain modeli
 
 **Languages:** Java, PL/pgSQL  
 **Backend:** Spring Boot, JPA, Hibernate, JDBC  
-**Architecture:** Microservices, CQRS, Saga, Event-driven systems  
 **Databases:** PostgreSQL, Couchbase  
 **Tools:** Docker, Swagger, Kafka  
 
